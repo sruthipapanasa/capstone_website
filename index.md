@@ -31,7 +31,13 @@ ADD VISUALS FOR EACH
 4. Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions
 
 ## Results
+**NLP Findings**
+- 1,260 users: 645 support Biden (51%), 461 support Trump (37%), 154 are neutral (12%)
+- The sentiment score results are strongly negative, meaning it is more common for users to express support for a certain candidate by expressing negative views about the competing candidate, as opposed to positive views about their own
 
-## Conclusion
+**LLM Findings**
+- Outputs for models were very emotionally charged, polarizing, and made use of strongly opinionated language
+- Even neutral model expressed its moderate views with strong conviction
+- Result aligns with our initial expectations, as Twitter contains the most intense opinions, and this is reflected by our model
 
 ## Related Works
