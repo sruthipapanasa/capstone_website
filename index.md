@@ -1,4 +1,4 @@
-# Experimenting Political Personas Through the Lens of Large Language Models
+# Developing Political Personas Through Generative Language Modeling
 
 ## Introduction
 
