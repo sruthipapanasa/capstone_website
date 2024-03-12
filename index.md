@@ -18,6 +18,17 @@ Surveys and cold calling are very time-consuming and expensive. These traditiona
 ADD VISUALS FOR EACH
 
 ## Methods
+**Part 1: NLP Approach - Sentiment Analysis**
+1. Calculated the average sentiment of each user’s tweets and classified each user into Biden-supporting voter, Trump-supporting voter, or neutral voter
+2. Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users
+
+**Part 2: LLM Approach - Model Development**
+1. Used LangChain as our model integration framework and OpenAI’s GPT-3.5 Turbo-Instruct API to create an LLM-powered generative model that can use trained clusters to produce the political affiliation, policy related opinions, opinion polarity, and emotional tone relating to common political discourses of 5 select voter populations
+2. Created 5 models, named Biden_strong, Biden_weak, Neutral, Trump_strong, Trump_weak
+3. Model training:
+  - Semantic training: analyzes the training tweets’ semantic language style and word choice to extract the tone and emotion of select voter type
+  - Contextual training: uses author’s tone description and analyzes the context and meaning of training tweets to extract the political stance, candidate affiliation, and general opinion of voter type
+4. Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions
 
 ## Results
 
