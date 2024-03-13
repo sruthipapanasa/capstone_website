@@ -10,6 +10,7 @@ title: Developing Political Personas Through Generative Language Modeling
 <button><a href="#Results">Results</a></button>
 <button><a href="#Limitations">Limitations</a></button>
 <button><a href="#RelatedW">Related Works</a></button>
+<button><a href="#Next">Next Steps</a></button>
 <button><a href="#Meet">Meet the Team</a></button>
 
 
@@ -68,6 +69,11 @@ to do...
 
 ## Related Works
 <p id="RelatedW">
+to do...
+</p>
+
+## Next Steps
+<p id="Next">
 to do...
 </p>
 
