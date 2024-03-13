@@ -86,10 +86,14 @@ title: Developing Political Personas Through Generative Language Modeling
 
 ## Related Works
 <p id="RelatedW">
-<span class="new-line"><strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.</span>
-  <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
-<span class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee</span>
-<a href="https://arxiv.org/abs/2305.09620" class="button">Click Here for the Article</a>
+  <span class="new-line"><strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.</span>
+  <div>
+    <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
+  </div>
+  <span class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee</span>
+  <div>
+    <a href="https://arxiv.org/abs/2305.09620" class="button">Click Here for the Article</a>
+  </div>
 </p>
 
 ## Next Steps
