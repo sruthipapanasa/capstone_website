@@ -98,6 +98,7 @@ title: Developing Political Personas Through Generative Language Modeling
 </p>
 
 ## Next Steps
+<div>
 <p id="Next">
   <ul>
     <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
@@ -105,6 +106,7 @@ title: Developing Political Personas Through Generative Language Modeling
     <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
   </ul>
 </p>
+</div>
 
 ## Meet the Team
 <p id="Meet">
