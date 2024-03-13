@@ -33,7 +33,6 @@ title: Developing Political Personas Through Generative Language Modeling
   <span style="margin-top: 20px;" class="new-line"><strong>Address Limitations of Surveys and Cold Calling:</strong>
   Surveys and cold calling are very time-consuming and expensive. These traditional methods also have a low success rate as the average person may not take time out of their day to complete them. Our project addresses this problem.</span>
 
-  ADD VISUALS FOR EACH
 </p>
 
 ## Methods
