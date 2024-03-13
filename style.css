@@ -46,3 +46,20 @@ button:hover {
 button a {
     color: white;
 }
+
+/* format meet the team */
+.gallery {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 20px;
+}
+
+.gallery div {
+    text-align: center;
+}
+
+.gallery img {
+    width: 100%;
+    height: auto;
+}
+
