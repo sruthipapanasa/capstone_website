@@ -20,13 +20,13 @@ title: Developing Political Personas Through Generative Language Modeling
 
 ## Objectives
 <p id="Objectives">
-**Locate a Political Candidate’s Target Audience**:
+<strong>Locate a Political Candidate’s Target Audience</strong>:
 Because our model can predict public opinion on political issues, candidates can figure out which voters align best with their policies in order to accurately target their campaign’s marketing efforts, which will help voters feel better represented by their leaders.
 
-**Forecast Success of Political Candidates’ Policies**:
+<strong>Forecast Success of Political Candidates’ Policies</strong>:
 Candidates can ask our model to predict whether the exact policies they want to implement will gain favor or discontent from the public. They can use these responses to tailor their policies that will represent and benefit as many voters as possible.
 
-**Address Limitations of Surveys and Cold Calling**:
+<strong>Address Limitations of Surveys and Cold Calling</strong>:
 Surveys and cold calling are very time-consuming and expensive. These traditional methods also have a low success rate as the average person may not take time out of their day to complete them. Our project addresses this problem.
 
 ADD VISUALS FOR EACH
@@ -34,11 +34,11 @@ ADD VISUALS FOR EACH
 
 ## Methods
 <p id="Methods">
-**Part 1: NLP Approach - Sentiment Analysis**
+<strong>Part 1: NLP Approach - Sentiment Analysis</strong>
 1. Calculated the average sentiment of each user’s tweets and classified each user into Biden-supporting voter, Trump-supporting voter, or neutral voter
 2. Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users
 
-**Part 2: LLM Approach - Model Development**
+<strong>Part 2: LLM Approach - Model Development</strong>
 1. Used LangChain as our model integration framework and OpenAI’s GPT-3.5 Turbo-Instruct API to create an LLM-powered generative model that can use trained clusters to produce the political affiliation, policy related opinions, opinion polarity, and emotional tone relating to common political discourses of 5 select voter populations
 2. Created 5 models, named Biden_strong, Biden_weak, Neutral, Trump_strong, Trump_weak
 3. Model training:
@@ -49,11 +49,11 @@ ADD VISUALS FOR EACH
 
 ## Results
 <p id="Results">
-**NLP Findings**
+<strong>NLP Findings</strong>
 - 1,260 users: 645 support Biden (51%), 461 support Trump (37%), 154 are neutral (12%)
 - The sentiment score results are strongly negative, meaning it is more common for users to express support for a certain candidate by expressing negative views about the competing candidate, as opposed to positive views about their own
 
-**LLM Findings**
+<strong>LLM Findings</strong>
 - Outputs for models were very emotionally charged, polarizing, and made use of strongly opinionated language
 - Even neutral model expressed its moderate views with strong conviction
 - Result aligns with our initial expectations, as Twitter contains the most intense opinions, and this is reflected by our model
