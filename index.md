@@ -71,6 +71,7 @@ to do...
     <div>
         <img src="vivian.jpg" alt="Vivian Lin">
         <p>Vivian Lin</p>
+        <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button">LinkedIn</a>
     </div>
     <!-- <div>
         <img src="photo2.jpg" alt="Photo 2">
