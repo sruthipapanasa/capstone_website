@@ -133,13 +133,13 @@ title: Developing Political Personas Through Generative Language Modeling
         <img src="tonoya.jpg" alt="Tonoya Ahmed">
         <p>Tonoya Ahmed</p>
         <a href="..." class="button">LinkedIn</a>
-    </div>
+    </div> -->
     <div>
-        <img src="sruthi.jpg" alt="Sruthi Papanasa">
+        <img src="sruthi.png" alt="Sruthi Papanasa">
         <p>Sruthi Papanasa</p>
-        <a href="..." class="button">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/sruthi-papanasa/" class="button">LinkedIn</a>
     </div>
-    <div>
+   <!-- <div>
         <img src="anna.jpg" alt="Anna Liu">
         <p>Anna Liu</p>
         <a href="..." class="button">LinkedIn</a>
