@@ -8,6 +8,7 @@ title: Developing Political Personas Through Generative Language Modeling
 <button><a href="#Objectives">Objectives</a></button>
 <button><a href="#Methods">Methods</a></button>
 <button><a href="#Results">Results</a></button>
+<button><a href="#Limitations">Limitations</a></button>
 <button><a href="#RelatedW">Related Works</a></button>
 <button><a href="#Meet">Meet the Team</a></button>
 
@@ -58,6 +59,11 @@ ADD VISUALS FOR EACH
 <span class="new-line">- Outputs for models were very emotionally charged, polarizing, and made use of strongly opinionated language</span>
 <span class="new-line">- Even neutral model expressed its moderate views with strong conviction</span>
 <span class="new-line">- Result aligns with our initial expectations, as Twitter contains the most intense opinions, and this is reflected by our model</span>
+</p>
+
+## Limitations
+<p id="Limitations">
+to do...
 </p>
 
 ## Related Works
