@@ -90,40 +90,21 @@ title: Developing Political Personas Through Generative Language Modeling
 </p>
 
 ## Related Works
-<div>
-  <p id="RelatedW">
-    <span class="new-line"><strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.</span>
-    <div>
-      <span class="new-line">
-        <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
-      </span>
-    </div>
-  </p>
-</div>
-
-<div>
-  <p>
-    <span style="margin-top: 20px;" class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee</span>
-    <div>
-      <span class="new-line">
-        <a href="https://arxiv.org/abs/2305.09620" class="button">Click for the Article</a>
-      </span>
-    </div>
-  </p>
-</div>
-
-<p></p>
+<p id="RelatedW">
+ <strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.
+    <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
+  <strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee
+  <a href="https://arxiv.org/abs/2305.09620" class="button">Click for the Article</a>
+</p>
 
 ## Next Steps
-<div>
-  <p id="Next">
-    <ul>
-      <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
-      <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
-      <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
-    </ul>
-  </p>
-</div>
+<p id="Next">
+  <ul>
+    <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
+    <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
+    <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
+  </ul>
+</p>
 
 ## Meet the Team
 <p id="Meet">
@@ -144,9 +125,9 @@ title: Developing Political Personas Through Generative Language Modeling
         <a href="https://www.linkedin.com/in/sruthi-papanasa/" class="button">LinkedIn</a>
     </div>
    <!-- <div>
-        <img src="anna.jpg" alt="Anna Liu">
+        <img src="anna.png" alt="Anna Liu">
         <p>Anna Liu</p>
-        <a href="..." class="button">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/annaliu2/" class="button">LinkedIn</a>
     </div> -->
   </div>
 </p>
