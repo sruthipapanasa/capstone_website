@@ -86,16 +86,19 @@ to do...
         <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button">LinkedIn</a>
     </div>
     <!-- <div>
-        <img src="photo2.jpg" alt="Photo 2">
-        <p>Caption for Photo 2</p>
+        <img src="tonoya.jpg" alt="Tonoya Ahmed">
+        <p>Tonoya Ahmed</p>
+        <a href="..." class="button">LinkedIn</a>
     </div>
     <div>
-        <img src="photo3.jpg" alt="Photo 3">
-        <p>Caption for Photo 3</p>
+        <img src="sruthi.jpg" alt="Sruthi Papanasa">
+        <p>Sruthi Papanasa</p>
+        <a href="..." class="button">LinkedIn</a>
     </div>
     <div>
-        <img src="photo4.jpg" alt="Photo 4">
-        <p>Caption for Photo 4</p>
+        <img src="anna.jpg" alt="Anna Liu">
+        <p>Anna Liu</p>
+        <a href="..." class="button">LinkedIn</a>
     </div> -->
 </div>
 </p>
