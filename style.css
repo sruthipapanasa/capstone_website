@@ -41,6 +41,7 @@ button {
 
 button:hover {
     background-color: #76acf3; /* Darker blue */
+    color: white;
 }
 
 button a {
