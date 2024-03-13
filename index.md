@@ -50,10 +50,10 @@ title: Developing Political Personas Through Generative Language Modeling
     <li>Created 5 models, named Biden_strong, Biden_weak, Neutral, Trump_strong, Trump_weak</li>
     <li>Model training:
       <div>
-        <ul>
+        <ol type="a">
           <li>Semantic training: analyzes the training tweets’ semantic language style and word choice to extract the tone and emotion of select voter type</li>
           <li>Contextual training: uses author’s tone description and analyzes the context and meaning of training tweets to extract the political stance, candidate affiliation, and general opinion of voter type</li>
-        </ul>
+        </ol>
       </div>
     </li>
     <li>Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions</li>
@@ -99,10 +99,13 @@ title: Developing Political Personas Through Generative Language Modeling
       <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
     </span>
   </div>
+</p>
+
+<p>
   <span style="margin-top: 20px;" class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee</span>
   <div>
     <span class="new-line">
-      <a href="https://arxiv.org/abs/2305.09620" class="button">Click Here</a>
+      <a href="https://arxiv.org/abs/2305.09620" class="button">Click Here for the Article</a>
     </span>
   </div>
 </p>
