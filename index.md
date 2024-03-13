@@ -8,7 +8,7 @@ title: Developing Political Personas Through Generative Language Modeling
 <button><a href="#Objectives">Objectives</a></button>
 <button><a href="#Methods">Methods</a></button>
 <button><a href="#Results">Results</a></button>
-<button><a href="#Related Works">Related Works</a></button>
+<button><a href="#RelatedW">Related Works</a></button>
 
 
 ## Introduction
@@ -60,6 +60,6 @@ ADD VISUALS FOR EACH
 </p>
 
 ## Related Works
-<p id="Related Works">
-
+<p id="RelatedW">
+to do...
 </p>
