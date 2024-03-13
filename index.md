@@ -122,12 +122,12 @@ title: Developing Political Personas Through Generative Language Modeling
 ## Meet the Team
 <p id="Meet">
   <div class="gallery">
-    <div>
+    <!--<div>
         <img src="vivian.jpg" alt="Vivian Lin">
         <p>Vivian Lin</p>
         <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button">LinkedIn</a>
     </div>
-    <!-- <div>
+    <div>
         <img src="tonoya.jpg" alt="Tonoya Ahmed">
         <p>Tonoya Ahmed</p>
         <a href="..." class="button">LinkedIn</a>
