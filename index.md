@@ -18,30 +18,20 @@ title: Developing Political Personas Through Generative Language Modeling
 <p id="Introduction">
   <span class="new-line">The main goal of politicians is to cater to their constituents and understand the changes they want to see. To do so, they need to be able to accurately identify their target voters, contact and survey them, understand their values and ideals, and predict which policies would best represent such populations. However, this process can often be time-consuming and expensive. Our project aims to help this problem. </span>
   
-  <span class="new-line"></span>
-
-  <span class="new-line">Twitter data contains a wealth of information that contains public opinions on policies and politicians. By analyzing tweets from different political groups, we aim to create personas that mimic key voter groups using LangChain Agents and OpenAI’s GPT-3.5 Turbo API. Our goal is to develop a model that can generate new data to predict real voting patterns based on previously posted tweets. We will then be able to ask these personas different political questions and explore their response and reasoning. </span>
+  <span style="margin-top: 20px;" class="new-line">Twitter data contains a wealth of information that contains public opinions on policies and politicians. By analyzing tweets from different political groups, we aim to create personas that mimic key voter groups using LangChain Agents and OpenAI’s GPT-3.5 Turbo API. Our goal is to develop a model that can generate new data to predict real voting patterns based on previously posted tweets. We will then be able to ask these personas different political questions and explore their response and reasoning. </span>
 </p>
 
 ## Objectives
 <p id="Objectives">
   <span class="new-line"><strong>Locate a Political Candidate’s Target Audience:</strong>
-  <span class="new-line"></span>
   Because our model can predict public opinion on political issues, candidates can figure out which voters align best with their policies in order to accurately target their campaign’s marketing efforts, which will help voters feel better represented by their leaders.</span>
-  
-  <span class="new-line"></span>
-  
-  <span class="new-line"><strong>Forecast Success of Political Candidates’ Policies:</strong>
-  <span class="new-line"></span>
+    
+  <span style="margin-top: 20px;" class="new-line"><strong>Forecast Success of Political Candidates’ Policies:</strong>
   Candidates can ask our model to predict whether the exact policies they want to implement will gain favor or discontent from the public. They can use these responses to tailor their policies that will represent and benefit as many voters as possible.</span>
 
-  <span class="new-line"></span>
 
-  <span class="new-line"><strong>Address Limitations of Surveys and Cold Calling:</strong>
-  <span class="new-line"></span>
+  <span style="margin-top: 20px;" class="new-line"><strong>Address Limitations of Surveys and Cold Calling:</strong>
   Surveys and cold calling are very time-consuming and expensive. These traditional methods also have a low success rate as the average person may not take time out of their day to complete them. Our project addresses this problem.</span>
-
-  <span class="new-line"></span>
 
   ADD VISUALS FOR EACH
 </p>
@@ -49,15 +39,13 @@ title: Developing Political Personas Through Generative Language Modeling
 ## Methods
 <p id="Methods">
   <span class="new-line"><strong>Part 1: NLP Approach - Sentiment Analysis</strong></span>
-  <ol type="I">
+  <ol>
     <li>Calculated the average sentiment of each user’s tweets and classified each user into Biden-supporting voter, Trump-supporting voter, or neutral voter</li>
     <li>Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users</li>
   </ol>
 
-  <span class="new-line"></span>
-
-  <span class="new-line"><strong>Part 2: LLM Approach - Model Development</strong></span>
-  <ol type="I">
+  <span style="margin-top: 20px;" class="new-line"><strong>Part 2: LLM Approach - Model Development</strong></span>
+  <ol>
     <li>Used LangChain as our model integration framework and OpenAI’s GPT-3.5 Turbo-Instruct API to create an LLM-powered generative model that can use trained clusters to produce the political affiliation, policy related opinions, opinion polarity, and emotional tone relating to common political discourses of 5 select voter populations</li>
     <li>Created 5 models, named Biden_strong, Biden_weak, Neutral, Trump_strong, Trump_weak</li>
     <li>Model training:
@@ -77,8 +65,6 @@ title: Developing Political Personas Through Generative Language Modeling
     <li>1,260 users: 645 support Biden (51%), 461 support Trump (37%), 154 are neutral (12%)</li>
     <li>The sentiment score results are strongly negative, meaning it is more common for users to express support for a certain candidate by expressing negative views about the competing candidate, as opposed to positive views about their own</li>
   </ul>
-
-  <span class="new-line"></span>
 
   <span class="new-line"><strong>LLM Findings</strong></span>
     <ul>
@@ -100,10 +86,9 @@ title: Developing Political Personas Through Generative Language Modeling
 
 ## Related Works
 <p id="RelatedW">
-<strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.
+<span class="new-line"><strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.</span>
   <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
-<span class="new-line"></span>
-<strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee
+<span class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee</span>
 <a href="https://arxiv.org/abs/2305.09620" class="button">Click Here for the Article</a>
 </p>
 
