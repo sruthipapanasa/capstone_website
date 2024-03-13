@@ -135,7 +135,7 @@ title: Developing Political Personas Through Generative Language Modeling
         <a href="..." class="button">LinkedIn</a>
     </div> -->
     <div>
-        <img src="sruthi.png" alt="Sruthi Papanasa">
+        <img src="sruthi.jpg" alt="Sruthi Papanasa">
         <p>Sruthi Papanasa</p>
         <a href="https://www.linkedin.com/in/sruthi-papanasa/" class="button">LinkedIn</a>
     </div>
