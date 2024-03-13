@@ -51,7 +51,7 @@ ADD VISUALS FOR EACH
 <span class="new-line"><strong>Part 1: NLP Approach - Sentiment Analysis</strong></span>
 <ol type="I">
   <li>Calculated the average sentiment of each user’s tweets and classified each user into Biden-supporting voter, Trump-supporting voter, or neutral voter</li>
-</li>Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users</li>
+<li>Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users</li>
 </ol>
 
 <span class="new-line"></span>
