@@ -29,6 +29,11 @@
     margin-top: -50px; 
 }
 
+#Next {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
+
 /* Adjust format and color of buttons */
 button {
     background-color: #5385b7; /* steel blue */
