@@ -9,6 +9,7 @@ title: Developing Political Personas Through Generative Language Modeling
 <button><a href="#Methods">Methods</a></button>
 <button><a href="#Results">Results</a></button>
 <button><a href="#RelatedW">Related Works</a></button>
+<button><a href="#Meet">Meet the Team</a></button>
 
 
 ## Introduction
@@ -62,4 +63,26 @@ ADD VISUALS FOR EACH
 ## Related Works
 <p id="RelatedW">
 to do...
+</p>
+
+## Meet the Team
+<p id="Meet">
+  <div class="gallery">
+    <div>
+        <img src="vivian.jpg" alt="Vivian Lin">
+        <p>Caption for Photo 1</p>
+    </div>
+    <!-- <div>
+        <img src="photo2.jpg" alt="Photo 2">
+        <p>Caption for Photo 2</p>
+    </div>
+    <div>
+        <img src="photo3.jpg" alt="Photo 3">
+        <p>Caption for Photo 3</p>
+    </div>
+    <div>
+        <img src="photo4.jpg" alt="Photo 4">
+        <p>Caption for Photo 4</p>
+    </div> -->
+</div>
 </p>
