@@ -59,7 +59,11 @@ button a {
 }
 
 .gallery img {
-    width: 100%;
+    width: 20%;
     height: auto;
 }
 
+/* puts text in a new line */
+.new-line {
+    display: block;
+}
