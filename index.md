@@ -89,6 +89,15 @@ title: Developing Political Personas Through Generative Language Modeling
   </ul>
 </p>
 
+## Next Steps
+<p id="Next"> 
+  <ul>
+    <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
+    <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
+    <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
+  </ul>
+</p>
+
 ## Related Works
 <p id="RelatedW">
  <strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.
@@ -96,16 +105,6 @@ title: Developing Political Personas Through Generative Language Modeling
   <strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee
   <a href="https://arxiv.org/abs/2305.09620" class="button">Click for the Article</a>
 </p>
-
-## Next Steps
-<!--<p id="Next"></p> -->
-<div style="margin-top: 20px;">
-  <ul>
-    <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
-    <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
-    <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
-  </ul>
-</div>
 
 ## Meet the Team
 <p id="Meet">
