@@ -1,0 +1,10 @@
+/* Adjust the position of the section when jumping to it */
+#introduction {
+    padding-top: 50px; 
+    margin-top: -50px; 
+}
+
+#objective {
+    padding-top: 50px;
+    margin-top: -50px; 
+}
