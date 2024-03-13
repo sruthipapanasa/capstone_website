@@ -56,6 +56,11 @@ title: Developing Political Personas Through Generative Language Modeling
     </li>
     <li>Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions</li>
   </ol>
+
+  <div>
+    <p>Flowchart of Methods</p>
+    <img src="flowchart.png" alt="Flowchart of Methods">
+  </div>
 </p>
 
 ## Results
