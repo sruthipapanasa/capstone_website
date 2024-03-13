@@ -6,6 +6,10 @@ title: Developing Political Personas Through Generative Language Modeling
 
 <button><a href="#Introduction">Introduction</a></button>
 <button><a href="#Objectives">Objectives</a></button>
+<button><a href="#Methods">Methods</a></button>
+<button><a href="#Results">Results</a></button>
+<button><a href="#Related Works">Related Works</a></button>
+
 
 ## Introduction
 <p id="Introduction">
@@ -29,6 +33,7 @@ ADD VISUALS FOR EACH
 </p>
 
 ## Methods
+<p id="Methods">
 **Part 1: NLP Approach - Sentiment Analysis**
 1. Calculated the average sentiment of each user’s tweets and classified each user into Biden-supporting voter, Trump-supporting voter, or neutral voter
 2. Split the Biden-supporting users into Biden Strong and Biden Weak based on a sentiment threshold, repeated for Trump-supporting users
@@ -40,8 +45,10 @@ ADD VISUALS FOR EACH
   - Semantic training: analyzes the training tweets’ semantic language style and word choice to extract the tone and emotion of select voter type
   - Contextual training: uses author’s tone description and analyzes the context and meaning of training tweets to extract the political stance, candidate affiliation, and general opinion of voter type
 4. Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions
+</p>
 
 ## Results
+<p id="Results">
 **NLP Findings**
 - 1,260 users: 645 support Biden (51%), 461 support Trump (37%), 154 are neutral (12%)
 - The sentiment score results are strongly negative, meaning it is more common for users to express support for a certain candidate by expressing negative views about the competing candidate, as opposed to positive views about their own
@@ -50,5 +57,9 @@ ADD VISUALS FOR EACH
 - Outputs for models were very emotionally charged, polarizing, and made use of strongly opinionated language
 - Even neutral model expressed its moderate views with strong conviction
 - Result aligns with our initial expectations, as Twitter contains the most intense opinions, and this is reflected by our model
+</p>
 
 ## Related Works
+<p id="Related Works">
+
+</p>
