@@ -98,14 +98,13 @@ title: Developing Political Personas Through Generative Language Modeling
 </p>
 
 ## Next Steps
+<p id="Next"></p>
 <div>
-<p id="Next">
   <ul>
     <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
     <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
     <li>Have our model output more streamlined answers through prompt engineering so that further analysis can be performed on the model responses</li>
   </ul>
-</p>
 </div>
 
 ## Meet the Team
