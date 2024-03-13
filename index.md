@@ -103,7 +103,7 @@ title: Developing Political Personas Through Generative Language Modeling
   <!--<div>
     <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
   </div> -->
-  <strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee
+  <span class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee </span>
   <!--<div>
     <a href="https://arxiv.org/abs/2305.09620" class="button">Click for the Article</a> 
   </div> -->
