@@ -94,12 +94,12 @@ title: Developing Political Personas Through Generative Language Modeling
  <strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.
     <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button">Click Here for the Article</a>
   <strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee
-  <a href="https://arxiv.org/abs/2305.09620" class="button">Click Here for the Article</a>
+  <a href="https://arxiv.org/abs/2305.09620" class="button">Click for the Article</a>
 </p>
 
 ## Next Steps
-<p id="Next"></p>
-<div>
+<!--<p id="Next"></p> -->
+<div style="margin-top: 20px;">
   <ul>
     <li>Be able to feed our models the latest Twitter data to get a more accurate picture of the current political climate</li>
     <li>Find a way to sample more Tweets than we can with the limitation of our current model</li>
