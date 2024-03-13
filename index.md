@@ -49,10 +49,12 @@ title: Developing Political Personas Through Generative Language Modeling
     <li>Used LangChain as our model integration framework and OpenAI’s GPT-3.5 Turbo-Instruct API to create an LLM-powered generative model that can use trained clusters to produce the political affiliation, policy related opinions, opinion polarity, and emotional tone relating to common political discourses of 5 select voter populations</li>
     <li>Created 5 models, named Biden_strong, Biden_weak, Neutral, Trump_strong, Trump_weak</li>
     <li>Model training:
+      <div>
         <ul>
           <li>Semantic training: analyzes the training tweets’ semantic language style and word choice to extract the tone and emotion of select voter type</li>
           <li>Contextual training: uses author’s tone description and analyzes the context and meaning of training tweets to extract the political stance, candidate affiliation, and general opinion of voter type</li>
         </ul>
+      </div>
     </li>
     <li>Asked the five models 9 questions about relevant political topics (e.g. gun control, abortion legalization, climate change, etc.) and recorded results to gain understanding of sample political opinions</li>
   </ol>
