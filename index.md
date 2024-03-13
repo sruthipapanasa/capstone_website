@@ -1,3 +1,7 @@
+---
+title: Developing Political Personas Through Generative Language Modeling
+---
+
 ## Introduction
 The main goal of politicians is to cater to their constituents and understand the changes they want to see. To do so, they need to be able to accurately identify their target voters, contact and survey them, understand their values and ideals, and predict which policies would best represent such populations. However, this process can often be time-consuming and expensive. Our project aims to help this problem.
 
