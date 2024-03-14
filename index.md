@@ -80,7 +80,7 @@ title: Developing Political Personas Through Generative Language Modeling
 
 <div>
     <p><strong>Sample Responses</strong></p>
-    <img src="abortion.png" alt="Should abortion be legalized? Why or why not?">
+    <img src="sample_responses.png" alt="Sample responses">
 </div>
 
 ## Limitations
