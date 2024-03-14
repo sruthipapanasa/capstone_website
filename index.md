@@ -9,8 +9,8 @@ title: Developing Political Personas Through Generative Language Modeling
 <button><a href="#Methods">Methods</a></button>
 <button><a href="#Results">Results</a></button>
 <button><a href="#Limitations">Limitations</a></button>
-<button><a href="#RelatedW">Related Works</a></button>
 <button><a href="#Next">Next Steps</a></button>
+<button><a href="#RelatedW">Related Works</a></button>
 <button><a href="#Meet">Meet the Team</a></button>
 
 
