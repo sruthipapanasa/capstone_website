@@ -80,7 +80,7 @@ title: Developing Political Personas Through Generative Language Modeling
 
 <div>
     <p><strong>Sample Responses</strong></p>
-    <img src="sample_responses.png" alt="Sample responses">
+    <img src="sr.jpeg" alt="Sample responses">
 </div>
 
 ## Limitations
