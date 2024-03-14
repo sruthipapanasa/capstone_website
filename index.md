@@ -125,7 +125,7 @@ title: Developing Political Personas Through Generative Language Modeling
         <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button">LinkedIn</a>
     </div>
     <div>
-        <img src="sruthi.png" alt="Tonoya Ahmed">
+        <img src="sruthip.png" alt="Tonoya Ahmed">
         <p>Tonoya Ahmed</p>
         <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button">LinkedIn</a>
     </div> 
