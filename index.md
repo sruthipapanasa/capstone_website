@@ -107,14 +107,14 @@ title: Developing Political Personas Through Generative Language Modeling
  <strong>Using Sentiment Analysis to Define Twitter Political Users' Classes and Their Homophily During the 2016 American Presidential Election</strong> by Caetano et al.
   <br>
   <br>
-  <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button custom-button" target="_blank">Click Here for the Article</a>
+  <a href="https://jisajournal.springeropen.com/articles/10.1186/s13174-018-0089-0#Sec3" class="button" target="_blank">Click Here for the Article</a>
   <br>
   <br>
   <br>
 
   <span class="new-line"><strong>AI-Augmented Surveys: Leveraging Large Language Models and Surveys for Opinion Prediction</strong> by Junsol Kim and Byungkyu Lee </span>
   <br>
-    <a href="https://arxiv.org/abs/2305.09620" class="button custom-button" target="_blank">Click for the Article</a> 
+    <a href="https://arxiv.org/abs/2305.09620" class="button" target="_blank">Click Here for the Article</a> 
     <br>
     <br>
     <br>
@@ -126,22 +126,22 @@ title: Developing Political Personas Through Generative Language Modeling
     <div>
         <img src="vivian.jpg" alt="Vivian Lin">
         <p><strong>Vivian Lin</strong></p>
-        <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button custom-button" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/vivian-esther-lin/" class="button" target="_blank">LinkedIn</a>
     </div>
     <div>
         <img src="sruthip.png" alt="Tonoya Ahmed">
         <p><strong>Tonoya Ahmed</strong></p>
-        <a href="https://www.linkedin.com/in/tonoya-ahmed-534820188/" class="button custom-button" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/tonoya-ahmed-534820188/" class="button" target="_blank">LinkedIn</a>
     </div> 
     <div>
         <img src="sruthip.png" alt="Sruthi Papanasa">
         <p><strong>Sruthi Papanasa</strong></p>
-        <a href="https://www.linkedin.com/in/sruthi-papanasa/" class="button custom-button" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/sruthi-papanasa/" class="button" target="_blank">LinkedIn</a>
     </div>
    <div>
         <img src="anna.png" alt="Anna Liu">
         <p><strong>Anna Liu</strong></p>
-        <a href="https://www.linkedin.com/in/annaliu2/" class="button custom-button" target="_blank">LinkedIn</a>
+        <a href="https://www.linkedin.com/in/annaliu2/" class="button" target="_blank">LinkedIn</a>
     </div> 
   </div>
 </p>
