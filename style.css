@@ -84,12 +84,15 @@ button a:hover {
 }
 
 /* Adjust color and format of Article and LinkedIn buttons */
-.button {
-    background-color: #4CAF50; 
-    color: white; 
+.custom-button {
+    background-color: #FF6347; /* Coral color */
+    color: white;
+    padding: 5px 10px; /* Increase padding for larger size */
+    font-size: 10px; /* Increase font size for larger size */
+    border-radius: 8px; /* Add border radius for rounded corners */
 }
 
-.button:hover{
-    background-color: #45a049; 
-    color: white;
+.custom-button:hover {
+    background-color: #FF4500; /* Darker coral color on hover */
 }
+
