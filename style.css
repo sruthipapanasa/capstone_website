@@ -87,3 +87,16 @@ button a:hover {
     display: block;
     margin-bottom:10px
 }
+
+.custom-button {
+    background-color: #FF6347; /* Coral color */
+    color: white;
+    padding: 10px 20px; /* Increase padding for larger size */
+    font-size: 16px; /* Increase font size for larger size */
+    border-radius: 8px; /* Add border radius for rounded corners */
+}
+
+.custom-button:hover {
+    background-color: #FF4500; /* Darker coral color on hover */
+}
+
