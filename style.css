@@ -58,6 +58,10 @@ button a {
     color: white;
 }
 
+button a:hover {
+    color: white;
+}
+
 /* format meet the team */
 .gallery {
     display: grid;
