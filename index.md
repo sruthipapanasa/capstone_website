@@ -123,7 +123,10 @@ title: Developing Political Personas Through Generative Language Modeling
 
 ## Report 
 <p id="Report">
-  <a href="report.pdf" class="button" target="_blank">Click here!</a>
+  <a href="report.pdf" class="button" target="_blank">Click Here for Our Report!</a>
+  <br>
+  <br>
+  <br>
 </p>
 
 ## Meet the Team
