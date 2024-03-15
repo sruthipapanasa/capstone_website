@@ -123,10 +123,10 @@ title: Developing Political Personas Through Generative Language Modeling
 
 ## Our Report and Code Repository
 <p id="Report">
-  <a href="report.pdf" class="button" target="_blank">Click Here for Our Report!</a>
+  <a href="report.pdf" class="button" target="_blank">Click Here for the Report</a>
   <br>
   <br>
-  <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here for Our Code!</a>
+  <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here for the Code</a>
   <br>
   <br>
   <br>
