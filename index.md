@@ -127,7 +127,6 @@ title: Developing Political Personas Through Generative Language Modeling
   <br>
   <br>
   <br>
-  <br>
   <a href="https://github.com/sruthipapanasa/B14_Q2_Submission/tree/main" class="button" target="_blank">Click Here for the Code</a>
   <br>
   <br>
